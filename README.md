@@ -70,17 +70,25 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=facundojg14&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&show_icons=true&locale=en&layout=compact&theme=algolia&bg_color=1e2b3c&border_color=B2E0FF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facundojg14&show_icons=true&locale=en&layout=compact&theme=algolia&bg_color=1e2b3c&border_color=B2E0FF" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO_GITHUB&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=facundojg14&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" alt="GitHub Streak" />
   </a>
+</div>
+<br>
+<br>
+<div align="center">
+  <img src="https://media.giphy.com/media/B1CrvUCoMxhy8/giphy.gif" width="320" alt="Lightning McQueen Ka-chow" />
+  <br><br>
+  <h4>Thank you for visiting my profile! 🚀</h4>
+  <p>I would love the opportunity to be part of your team and contribute to your next project.</p>
 </div>
 
 ---
