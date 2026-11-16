@@ -69,12 +69,6 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=facundojg14&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facundojg14&show_icons=true&locale=en&layout=compact&theme=algolia&bg_color=1e2b3c&border_color=B2E0FF" alt="Top Languages" />
-</div>
-
 <br>
 
 <div align="center">
