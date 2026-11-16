@@ -72,7 +72,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facundojg14&show_icons=true&locale=en&layout=compact&theme=algolia&bg_color=1e2b3c&border_color=B2E0FF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&show_icons=true&locale=en&layout=compact&theme=algolia&bg_color=1e2b3c&border_color=B2E0FF" alt="Top Languages" />
 </div>
 
 <br>
@@ -90,18 +90,4 @@
 <div align="center">
   <a href="mailto:facundojg14@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/facundo-jaeggi-garcia-1576b5437/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></div>
-  ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&show_icons=true&locale=en&layout=compact&theme=algolia&bg_color=1e2b3c&border_color=B2E0FF" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO_GITHUB&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" alt="GitHub Streak" />
-  </a>
-</div>
