@@ -21,7 +21,7 @@
 ---
 
 - 👨‍💻 Multiplatform Application Development (DAM) student at **Institut Nicolau Copèrnic** (Terrassa, Spain), focused on **Backend Development** with Java and Spring Boot.
-- 🚗 Recently led the development of a full-stack **Vehicle Rental Management System** (Rent-a-Car) as **Team Leader & Backend Developer**, handling fleet management, vehicle check-out workflows, and hybrid databases.
+- 🚗 Recently led the development of a full-stack **Vehicle Rental Management System** (Nothingan-pri.SA) as **Team Leader & Backend Developer**, handling fleet management, vehicle check-out workflows, and hybrid databases.
 - 💬 Ask me about **Java, Spring Boot, Spring Data JPA, SQL/NoSQL architectures, or team workflow organization**.
 - 🌱 Currently seeking my **first professional opportunity as a Junior Developer** to contribute clean code, organizational rigor, and a strong drive to keep learning.
 
@@ -50,6 +50,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)
 
