@@ -74,7 +74,7 @@
   * **Vehicle Handover (Check-out) Module:** Implemented the core operational workflow for physical vehicle pickup, validating active reservations and updating real-time fleet availability.
 * **Tech Stack:** Java · Spring Boot · Spring Data JPA · Thymeleaf · MySQL · MongoDB
 * 🔗 **[View Project Repository on GitHub](https://github.com/facundojg14/Nothingan_pri.SA)**
-* * 📄 **[View Project Documentation (PDF)](https://github.com/facundojg14/Nothingan_pri.SA/blob/main/Projecte%20Nothingan%20Pri.pdf)**
+* 📄 **[View Project Documentation (PDF)](https://github.com/facundojg14/Nothingan_pri.SA/blob/main/Projecte%20Nothingan%20Pri.pdf)**
 ---
 
 ## 📊 GitHub Statistics
