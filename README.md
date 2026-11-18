@@ -73,7 +73,7 @@
   * **Fleet Management Module:** Built complete CRUD operations, advanced filtering, and relational mapping between vehicles and reservations.
   * **Vehicle Handover (Check-out) Module:** Implemented the core operational workflow for physical vehicle pickup, validating active reservations and updating real-time fleet availability.
 * **Tech Stack:** Java · Spring Boot · Spring Data JPA · Thymeleaf · MySQL · MongoDB
-* 🔗 **[View Project Repository on GitLab](https://github.com/facundojg14/Nothingan_pri.SA)**
+* 🔗 **[View Project Repository on GitHub](https://github.com/facundojg14/Nothingan_pri.SA)**
 ---
 
 ## 📊 GitHub Statistics
